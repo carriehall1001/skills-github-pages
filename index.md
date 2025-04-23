@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Carrie's Area
 ---
-
+Just saying hello to everyone
