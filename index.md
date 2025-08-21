@@ -1,4 +1,9 @@
+## About Me
+Title:  **Carrie's Area**
+<details>
+
+|Name | Hobbies |
+|--------: | -------- |
+| Carrie | Coloring |
 ---
-title: Carrie's Area
----
-Just saying hello to everyone
+</details>
